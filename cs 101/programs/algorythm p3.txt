@@ -1,0 +1,14 @@
+   1. greet player and shuffle hands
+   2. both of the ai players take their turn
+   3. asks the user which card they would like to take
+	- if user enters 1 then takes the first card
+	- if user enters 2 then takes the second card
+	- if user enters 3 then takes the third card
+	- if user selects any other number returns Invalid selection and asks to choose again 
+   4. takes card and puts it into the players hand
+   5. check to see if there is a winner
+	- if not, start a new round
+	- is there is a winner, declare winner
+   6. ask user if they want to play again
+	- if y then play again
+	- if n then quit program
